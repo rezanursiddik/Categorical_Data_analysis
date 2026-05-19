@@ -1,4 +1,4 @@
-# Categorical Analysis – Course Code 4104
+# Categorical Data Analysis – Course Code 4104
 
 ## Author Information
 - **Name:** S M Rezanur Siddik  
